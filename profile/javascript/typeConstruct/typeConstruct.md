@@ -216,4 +216,6 @@ while (true) {
 
 Create a CodePen that uses conditional and loop statements.
 
+The console for code pen can be found at the bottom left of the window. Just click the console button and it will pull up with your logs.
+
 When you are done submit your CodePen URL, along with a comment about something you found interesting, to the Canvas assignment.
